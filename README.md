@@ -1,4 +1,4 @@
-# Efrain Nevarez Portfolio
+# Efrain Nevarez responsivePortfolio
  
 ![Badge](https://img.shields.io/static/v1?label=License&message=MIT&color=9cf)
  
@@ -15,7 +15,7 @@
 ![gif for site](gif-link)
  
 ## User Story
-This Website is a link to My User Portfolio and contact information
+This Website is a link to My User Responsive Portfolio and contact information
  
 ## Description
 Description of Website and what technologies were used
