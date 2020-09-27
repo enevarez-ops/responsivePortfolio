@@ -24,7 +24,7 @@ Description of Website and what technologies were used
 How to install and run app/website
  
 ## Contributors
-who participating in building this project
+Efrain Nevarez
  
 ## Credits
 Credits for anything used to build site
