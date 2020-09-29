@@ -1,5 +1,6 @@
 .navbar-nav {
     margin-left: auto;
+    width:auto;
 }
 
 .media {
@@ -17,7 +18,8 @@
 } */
 
 #unicorn {
-    margin: auto;
+    height: auto;
+    width: auto;
 }
 
 /* .card-img-top {
@@ -27,6 +29,7 @@
 .image{
     margin: auto;
 }
-.row{
+
+.portfolio{
     margin-top: 30px;
 }
