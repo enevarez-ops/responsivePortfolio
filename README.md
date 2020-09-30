@@ -18,7 +18,7 @@
 This Website is a link to My User Responsive Portfolio and contact information
  
 ## Description
-Description of Website and what technologies were used
+A Reactive portfolio using Bootstrap and CSS
  
 ## Installation
 How to install and run app/website
