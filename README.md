@@ -15,19 +15,19 @@
 ![gif for site](gif-link)
  
 ## User Story
-This Website is a link to My User Responsive Portfolio and contact information
+This Website is a link to My User Responsive Portfolio, About Me and Contact Information
  
 ## Description
 A Reactive portfolio using Bootstrap and CSS
  
 ## Installation
-How to install and run app/website
+Click on link and use in default browser.
  
 ## Contributors
 Efrain Nevarez
  
 ## Credits
-Credits for anything used to build site
+CSS, JQuery, Bootstrap
  
 ## License
 This project is licensed by MIT
