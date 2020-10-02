@@ -27,7 +27,7 @@ Click on link and use in default browser.
 Efrain Nevarez
  
 ## Credits
-CSS, JQuery, Bootstrap
+CSS, Bootstrap
  
 ## License
 This project is licensed by MIT
