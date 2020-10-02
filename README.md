@@ -12,7 +12,7 @@
  
 ## Deployed site
 [Responsive Portfolio](https://enevarez-ops.github.io/responsivePortfolio/)
-![GitHub Logo](/images/logo.png)
+![Unicorn](https://github.com/enevarez-ops/responsivePortfolio/blob/master/photo-1561279629-78600d1156b2.jpg?raw=true)
 
 ## User Story
 This Website is a link to My User Responsive Portfolio, About Me and Contact Information
